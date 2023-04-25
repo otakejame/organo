@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Organo (App Organograma em React)
+App desenvolvido durante o curso de React da Alura
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
